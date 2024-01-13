@@ -1,4 +1,4 @@
-# Image Optimization Strategy by image-webpack-loader
+# Image Optimization: image-webpack-loader
 
 Image optimization is a crucial aspect of frontend development. It not only improves the performance of your web applications but also enhances the user experience by reducing the load time of your web pages. One of the tools that can help you achieve this is the `image-webpack-loader`.
 
